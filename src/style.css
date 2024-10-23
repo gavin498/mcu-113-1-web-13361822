@@ -18,6 +18,8 @@ nav {
 }
 
 ul {
+    display: flex;
+    justify-content: space-between;
     padding-left: 0;
     list-style: none;
 }
@@ -40,8 +42,9 @@ a:focus{
 
 .card{
     border: solid 1px #999;
+    padding: 10px;
     border-radius: 8px;
-    width: 250px;
+    flex-basis: 250px;
 }
 
 input[type="text"]{
@@ -90,4 +93,10 @@ td.price {
 
 footer {
     margin-top: 20px;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
 }
