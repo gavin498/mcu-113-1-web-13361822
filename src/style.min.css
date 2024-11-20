@@ -1,1 +1,1 @@
-body{background-color:#fafafa}*{margin:0;padding:0;box-sizing:border-box}/*# sourceMappingURL=style.min.css.map */
+:root{--body-color: rgb(250, 250, 250)}body{background-color:var(--body-color)}*{margin:0;padding:0;box-sizing:border-box}/*# sourceMappingURL=style.min.css.map */
