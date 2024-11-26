@@ -6,5 +6,6 @@
       "savePath": "/src"
     }
   ],
-  "liveSassCompile.settings.excludeList": ["/src/assets/code/**"]
+  "liveSassCompile.settings.excludeList": ["/src/assets/code/**"],
+  "notebook.defaultFormatter": "esbenp.prettier-vscode"
 }
