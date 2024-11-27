@@ -8,6 +8,10 @@
 
   &:hover {
     background-color: var(--second-color);
-    color: var(--withe-color);
+    color: var(--white-color);
+  }
+
+  > i {
+    margin-left: 10px;
   }
 }
