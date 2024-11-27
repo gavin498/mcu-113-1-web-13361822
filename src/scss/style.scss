@@ -1,5 +1,7 @@
 @import "./nav";
 @import "./btn";
+@import "./home";
+
 :root {
   --body-color: rgb(250, 250, 250);
   --logo-color: rgb(218, 70, 102);
@@ -11,6 +13,7 @@
   --first-color-hover: rgb(40, 91, 212);
 
   --second-color: rgb(170, 142, 18);
+  --third-color: rgb(40, 91, 212);
 }
 
 html {
